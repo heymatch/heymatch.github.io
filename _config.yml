@@ -1,11 +1,11 @@
-title: HeyAlgol
+title: heymatch's page
 email: match.remo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   記錄自己學習的筆記
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heymatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  heymatch
+github_username: heymatch
 
 site.google_analytics: UA-131775629-3
 
