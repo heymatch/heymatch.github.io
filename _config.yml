@@ -6,8 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heymatch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: heymatch
+linkedin_username: heymatch
 
-site.google_analytics: UA-131775629-3
+site.google_analytics: G-LWD87SW2B9
 
 # Build settings
 theme: minima
