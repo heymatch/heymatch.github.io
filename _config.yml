@@ -8,8 +8,6 @@ twitter_username:
 github_username: heymatch
 linkedin_username: heymatch
 
-site.google_analytics: G-LWD87SW2B9
-
 # Build settings
 theme: minima
 plugins:
